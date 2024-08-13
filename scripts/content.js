@@ -18,7 +18,12 @@ const tartagliaImages = [
     chrome.runtime.getURL("assets/tar-17.png"),
     chrome.runtime.getURL("assets/tar-18.png"),
     chrome.runtime.getURL("assets/tar-19.png"),
-    chrome.runtime.getURL("assets/tar-20.png")
+    chrome.runtime.getURL("assets/tar-20.png"),
+    chrome.runtime.getURL("assets/tar-21.png"),
+    chrome.runtime.getURL("assets/tar-22.png"),
+    chrome.runtime.getURL("assets/tar-23.png"),
+    chrome.runtime.getURL("assets/tar-24.png"),
+    chrome.runtime.getURL("assets/tar-25.png")
 ];
 
 function replaceImageSrc(image) {
