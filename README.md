@@ -55,7 +55,7 @@ To access the extension, simply follow the steps below.
    ![Untitled](https://github.com/user-attachments/assets/acb95743-90ca-40f7-88ca-2afad0016e89)
 
 3. After extracting the `.zip` file, go to your chrome browser and click the `Extensions` tab and then `Manage Extensions`.
-   ![image](https://github.com/user-attachments/assets/cd065103-8f2d-4db6-a029-42540f9da4d1)
+   ![Untitled](https://github.com/user-attachments/assets/c2377cc9-3cc1-4085-b7e7-c57d9d12c625)
 
 5. You will be redirected to this panel, make sure to toggle the `Developer mode` on, located on the <strong>upper right</strong> part of the panel.
    ![image](https://github.com/user-attachments/assets/7b677ba5-cf2c-4253-9982-5834580765a3)
