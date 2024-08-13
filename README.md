@@ -49,27 +49,27 @@
 To access the extension, simply follow the steps below.
 
 1. Download the `.zip` version of the extension by clicking `Code` then `Download ZIP` on the top of this repository.
-   ![image](https://github.com/user-attachments/assets/42ccc8fb-93f8-4964-b83d-27aa2faba5b8)
+   ![ins1](https://github.com/user-attachments/assets/c6df2aab-2a16-466f-8bc3-8c04ab43d6b0)
 
 2. After downloading the `.zip` version, `extract` it on your `file manager/explorer`.
-   ![Untitled](https://github.com/user-attachments/assets/acb95743-90ca-40f7-88ca-2afad0016e89)
+   ![ins2](https://github.com/user-attachments/assets/2d55da5f-081a-4568-b086-7f6bf0a51f60)
 
 3. After extracting the `.zip` file, go to your chrome browser and click the `Extensions` tab and then `Manage Extensions`.
-   ![Untitled](https://github.com/user-attachments/assets/c2377cc9-3cc1-4085-b7e7-c57d9d12c625)
+   ![ins3](https://github.com/user-attachments/assets/165efbf4-cf61-445d-9a82-015ab154b755)
 
-5. You will be redirected to this panel, make sure to toggle the `Developer mode` on, located on the <strong>upper right</strong> part of the panel.
-   ![image](https://github.com/user-attachments/assets/7b677ba5-cf2c-4253-9982-5834580765a3)
+4. You will be redirected to this panel, make sure to toggle the `Developer mode` on, located on the <strong>upper right</strong> part of the panel.
+   ![ins4](https://github.com/user-attachments/assets/0316621b-c939-4e40-b30b-f0eafa301b9e)
 
-6. After toggling `Developer mode` on, click `Load unpacked` on the <strong>upper left</strong> part of the panel.
-   ![image](https://github.com/user-attachments/assets/d84b2bac-aefe-45fa-8820-cf1187a4924c)
+5. After toggling `Developer mode` on, click `Load unpacked` on the <strong>upper left</strong> part of the panel.
+   ![ins5](https://github.com/user-attachments/assets/3311679c-68c0-4b29-b8ad-c545d4a79c43)
 
-7. Open the folder of the `.zip` file you extracted on <strong>Step 2</strong>. Make sure to go to the inner folder.
+6. Open the folder of the `.zip` file you extracted on <strong>Step 2</strong>. Make sure to go to the inner folder.
    ![image](https://github.com/user-attachments/assets/2f8d68e1-0adc-45bd-b6cf-8239c2b8d7d2)
 
-8. After that, you'll have the extension on your panel, make sure that it is also toggled on.
+7. After that, you'll have the extension on your panel, make sure that it is also toggled on.
    ![image](https://github.com/user-attachments/assets/f99e4efd-26d0-43f3-96d8-e25490dad630)
 
-9. Optional: You can also pin the extension. Enjoy!
+8. Optional: You can also pin the extension. Enjoy!
    ![image](https://github.com/user-attachments/assets/98ca784c-e2de-42e4-9d12-b388666f42b2)
 
 ## Developer Notes
