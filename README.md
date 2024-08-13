@@ -27,7 +27,7 @@
 ## About The Project
 
 > Tartaglify is a chrome extension that changes all images on a website, into Tartaglia's
-> (from genshin Impact) images. It is unpublished because Google has requires a fee, but
+> (from genshin Impact) images. It is unpublished because Google requires a fee, but
 > you can still access it by following the <a href="#installation">installation guide</a>.
 
 ## Extension Snapshots
@@ -50,22 +50,22 @@ To access the extension, simply follow the steps below.
 ![Untitled](https://github.com/user-attachments/assets/acb95743-90ca-40f7-88ca-2afad0016e89)
 
 3. After extracting the `.zip` file, go to your chrome browser and click the `Extensions` tab and then `Manage Extensions`.
-![image](https://github.com/user-attachments/assets/cac8fc6b-92ea-4661-ad5b-2f85db4d1873)
+![image](https://github.com/user-attachments/assets/52692709-c4a1-4e80-9b62-f9c9a5ccdc11)
 
-4. You will be redirected to this panel, make sure to toggle the `Developer mode` on, located on the <strong>upper right</strong> part of the panel.
+5. You will be redirected to this panel, make sure to toggle the `Developer mode` on, located on the <strong>upper right</strong> part of the panel.
 ![image](https://github.com/user-attachments/assets/7b677ba5-cf2c-4253-9982-5834580765a3)
 
-5. After toggling `Developer mode` on, click `Load unpacked` on the <strong>upper left</strong> part of the panel.
+6. After toggling `Developer mode` on, click `Load unpacked` on the <strong>upper left</strong> part of the panel.
 ![image](https://github.com/user-attachments/assets/d84b2bac-aefe-45fa-8820-cf1187a4924c)
 
-6. Open the folder of the `.zip` file you extracted on <strong>Step 2</strong>. Make sure to go to the inner folder.
+7. Open the folder of the `.zip` file you extracted on <strong>Step 2</strong>. Make sure to go to the inner folder.
 ![image](https://github.com/user-attachments/assets/2f8d68e1-0adc-45bd-b6cf-8239c2b8d7d2)
 
-7. After that, you'll have the extension on your panel, make sure that it is also toggled on.
+8. After that, you'll have the extension on your panel, make sure that it is also toggled on.
 ![image](https://github.com/user-attachments/assets/f99e4efd-26d0-43f3-96d8-e25490dad630)
 
-8. Optional: You can also pin the extension. Enjoy!
-![image](https://github.com/user-attachments/assets/0eadf1e3-db97-41f1-bf73-b274060dae04)
+9. Optional: You can also pin the extension. Enjoy!
+![image](https://github.com/user-attachments/assets/98ca784c-e2de-42e4-9d12-b388666f42b2)
 
 ### Developer Notes
 
