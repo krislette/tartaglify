@@ -27,7 +27,7 @@ function replaceImageSrc(image) {
     const isSvgImage = image instanceof SVGImageElement;
 
     if (isImg) {
-        // Handle <img> elements that are not yet inject with Tartaglia image
+        // Handle <img> elements that are not yet injected with Tartaglia image
         if (image && !image.src.includes("assets/tar-")) {
             const randomTartagliaImage = tartagliaImages[Math.floor(Math.random() * tartagliaImages.length)];
             image.src = randomTartagliaImage;
