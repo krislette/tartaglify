@@ -67,6 +67,6 @@ To access the extension, simply follow the steps below.
 9. Optional: You can also pin the extension. Enjoy!
 ![image](https://github.com/user-attachments/assets/98ca784c-e2de-42e4-9d12-b388666f42b2)
 
-### Developer Notes
+## Developer Notes
 
 This extension is purely just for fun. It may also not work on some websites due to how they design their image components on their scripts, which is outside the developer's scope. If you want to have some of your favorite websites included, you can tap the developer using this <a href="https://github.com/krislette/tartaglify/pulls">link</a>.
